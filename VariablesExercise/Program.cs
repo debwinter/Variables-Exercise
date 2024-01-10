@@ -4,44 +4,20 @@
     {
         static void Main(string[] args)
         {
-            /* This isn't exactly what y'all are asking for, but I hope it's ok!
-            I'd been working on this with W3 schools and it seemed like a decent
-            time to use it, considering the example includes dogName & age :) */
+            string dogName = "Frisco";
+            int dogAge = 6;
+            char firstLetter = 'F';
+            bool areDogsCute = false;
+            bool isFriscoCute = true;
+            double randomNumber = 436218.4231684512378;
+            decimal biggerRandomNumber = 4512794631289654.423561794638573489547m;
 
+            string[] petType = new string[] { "dog", "cat", "bird", "hamster", "snake" };
 
-            Console.WriteLine("How many pets do you have?");
-            int? pets = Convert.ToInt32(Console.ReadLine());
-
-            if (pets > 1)
-            {
-                Console.WriteLine("What is the name of one of your pets?");
-                string? petName = Console.ReadLine();
-
-                Console.WriteLine("What type of animal is " + petName + "?");
-                Console.Write($"{petName} is a: ");
-                string? petType = Console.ReadLine();
-
-                Console.WriteLine("How old is " + petName + "?");
-                int? petAge = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine($"{petAge} is a great age! I bet {petName} the {petType} is really cute!");
-            }
-            else if (pets >= 1)
-            {
-                Console.WriteLine("What type of pet do you have?");
-                Console.Write("I have a: ");
-                string? petType = Console.ReadLine();
-
-                Console.WriteLine("What is your " + petType + "'s name?");
-                string? petName = Console.ReadLine();
-
-                Console.WriteLine("How old is " + petName + "?");
-                int? petAge = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine($"{petAge} is a great age! I bet {petName} the {petType} is really cute!");
-            }
-            else
-            {
-                Console.WriteLine("Wow, I bet your house is so clean!");
-            }
+            Console.WriteLine($"I have a {dogAge}-year-old {petType[0]} named {dogName}, which begins with the letter {firstLetter}.");
+            Console.WriteLine($"If you asked me if all dogs are cute, I might say {areDogsCute}, but if you asked me if {dogName} is cute I would say {isFriscoCute}.");
+            Console.WriteLine($"{randomNumber} is a random number.");
+            Console.WriteLine($"{biggerRandomNumber} is a bigger random number.");
         }
     }
 }
