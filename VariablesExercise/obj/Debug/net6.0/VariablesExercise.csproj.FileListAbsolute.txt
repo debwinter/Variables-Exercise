@@ -1,0 +1,15 @@
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.deps.json
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.runtimeconfig.json
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.dll
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.pdb
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.csproj.AssemblyReference.cache
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfoInputs.cache
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfo.cs
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.csproj.CoreCompileInputs.cache
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.dll
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/refint/VariablesExercise.dll
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.pdb
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.genruntimeconfig.cache
+/Users/debrawinter/Desktop/Repos/VariablesExercise/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/ref/VariablesExercise.dll
