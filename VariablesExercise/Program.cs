@@ -18,6 +18,21 @@
             Console.WriteLine($"If you asked me if all dogs are cute, I might say {areDogsCute}, but if you asked me if {dogName} is cute I would say {isFriscoCute}.");
             Console.WriteLine($"{randomNumber} is a random number.");
             Console.WriteLine($"{biggerRandomNumber} is a bigger random number.");
+
+            Console.WriteLine();
+            Console.WriteLine();
+
+            Console.WriteLine("What is your name?");
+            string? name = Console.ReadLine();
+
+            Console.WriteLine($"Nice to meet you, {name}. How old are you?");
+            int? age = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine($"I remember being {age}. Now I have gained all the wisdom of the universe.");
+            Console.WriteLine($"Is there anything you want to do before turning {age + 1}?");
+            string? goal = Console.ReadLine();
+
+            Console.WriteLine($"{goal} is a great goal!");
         }
     }
 }
